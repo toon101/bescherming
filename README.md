@@ -7,3 +7,6 @@ https://github.com/blocklistproject/Lists/blob/master/malware.ip
 https://github.com/blocklistproject/Lists/blob/master/phishing.txt
 https://github.com/blocklistproject/Lists/blob/master/porn.txt
 https://github.com/blocklistproject/Lists/blob/master/ransomware.txt
+https://github.com/blocklistproject/Lists/blob/master/scam.txt
+https://github.com/blocklistproject/Lists/blob/master/tracking.txt
+https://github.com/blocklistproject/Lists/blob/master/torrent.txt
